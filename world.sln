@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "world", "world\world.csproj", "{D1D7793B-1957-42A5-8578-C6C1320F0035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{D0C0E0BD-F50F-458B-95E5-D3B148D4D6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidMsg", "ValidMsg\ValidMsg.csproj", "{0DECE8CD-4BC0-4B16-9D51-5120A0A98B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1D7793B-1957-42A5-8578-C6C1320F0035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D7793B-1957-42A5-8578-C6C1320F0035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D7793B-1957-42A5-8578-C6C1320F0035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D7793B-1957-42A5-8578-C6C1320F0035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C0E0BD-F50F-458B-95E5-D3B148D4D6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C0E0BD-F50F-458B-95E5-D3B148D4D6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C0E0BD-F50F-458B-95E5-D3B148D4D6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C0E0BD-F50F-458B-95E5-D3B148D4D6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DECE8CD-4BC0-4B16-9D51-5120A0A98B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DECE8CD-4BC0-4B16-9D51-5120A0A98B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DECE8CD-4BC0-4B16-9D51-5120A0A98B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DECE8CD-4BC0-4B16-9D51-5120A0A98B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CD388A4-96B9-4D0E-89C6-3E176190DAAD}
+	EndGlobalSection
+EndGlobal
